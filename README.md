@@ -1,7 +1,8 @@
 # yemektakip-ai
 
-Goru Restoran – Bilgisayarlı Görü ile Akıllı Restoran Takip Sistemi
-Proje Hakkında
+#Goru Restoran – Bilgisayarlı Görü ile Akıllı Restoran Takip Sistemi
+
+##Proje Hakkında
 Bu proje, bir restoranda masalara gelen yemeklerin ve garsonların performansının bilgisayarlı görü ile otomatik olarak takip edilmesini amaçlıyor.
 Sistemde masaların üzerindeki kameralar sayesinde hangi yemeğin geldiği tespit edilip anlık olarak fiyat hesaplanıyor. Aynı zamanda garsonların hangi masaya baktığı, ne kadar sürede hizmet verdiği ve performansları da kaydediliyor.
 
