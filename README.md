@@ -35,10 +35,12 @@ Gerekli Python paketlerini yükleyin:
 
 ```sh
 pip install -r requirements.txt
+```
 Ana dosyayı başlatın:
 
 ```sh
 python util.py
+```
 (Kendi modelinizi kullanacaksanız YOLOv8 ağırlık dosyanızı models/ klasörüne ekleyin.)
 
 ### Kullanım
