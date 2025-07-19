@@ -49,15 +49,17 @@ Program açıldıktan sonra “Kamera Başlat” butonuna tıklayın.
 
 Sisteme video veya webcam üzerinden veri gönderebilirsiniz.
 
+Masaların yanında bulunan qr kodunu masanın ortasına bırakın bu garsonun size sipariş için gelmesini sağlamaktadır.
+
 Masaya yemek gelince otomatik olarak ekrana yansır, fiyat ve garson bilgisi güncellenir.
 
-Masada işlem bitince QR kod okutarak hesabı kapatabilirsiniz.
+Masada işlem bitince garson kendisinde bulunan QR kodu masanın ortasına koyarak hesabı kapatabilir.
 
 “Rapor” butonuyla geçmiş tüm işlemleri görüntüleyebilirsiniz.
 
-Katkıda Bulunanlar
 Ahmet Telli
 
 [youtube](https://youtu.be/GewHmj34BSk)
 
-Proje tamamen eğitim ve demo amaçlı geliştirilmiştir.
+Proje tamamen eğitim amaçlı geliştirilmiştir.
+Veriseti eğitim amaçlı kullanılabilir.
