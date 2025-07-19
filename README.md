@@ -34,6 +34,7 @@ Tüm veriler rapor ekranında görüntülenebiliyor.
 Gerekli Python paketlerini yükleyin:
 
 ```sh
+cd /yolov5
 pip install -r requirements.txt
 ```
 Ana dosyayı başlatın:
