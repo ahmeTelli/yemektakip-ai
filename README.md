@@ -1,8 +1,8 @@
 # yemektakip-ai
 
-#Goru Restoran – Bilgisayarlı Görü ile Akıllı Restoran Takip Sistemi
+# Goru Restoran – Bilgisayarlı Görü ile Akıllı Restoran Takip Sistemi
 
-##Proje Hakkında
+## Proje Hakkında
 Bu proje, bir restoranda masalara gelen yemeklerin ve garsonların performansının bilgisayarlı görü ile otomatik olarak takip edilmesini amaçlıyor.
 Sistemde masaların üzerindeki kameralar sayesinde hangi yemeğin geldiği tespit edilip anlık olarak fiyat hesaplanıyor. Aynı zamanda garsonların hangi masaya baktığı, ne kadar sürede hizmet verdiği ve performansları da kaydediliyor.
 
@@ -18,14 +18,17 @@ Garsonun gecikmesi gibi durumlarda sistem otomatik olarak puan düşürüyor.
 
 Tüm veriler rapor ekranında görüntülenebiliyor.
 
-Özellikler
-Masaya gelen yemeklerin otomatik tanınması ve ücretlendirilmesi
+---
 
-Garsonların performans takibi ve puanlama sistemi
+### Özellikler
+- Masaya gelen yemeklerin otomatik tanınması ve ücretlendirilmesi
 
-Masa açma/kapama işlemlerinin QR kod ile yapılabilmesi
+- Garsonların performans takibi ve puanlama sistemi
 
-Tüm siparişlerin ve garson performanslarının aylık raporlanması
+- Masa açma/kapama işlemlerinin QR kod ile yapılabilmesi
+
+- Tüm siparişlerin ve garson performanslarının aylık raporlanması
+---
 
 Kurulum
 Gerekli Python paketlerini yükleyin:
